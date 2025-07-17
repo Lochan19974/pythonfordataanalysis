@@ -7,7 +7,7 @@ Tasks completed:
 - performed Data Exploration
 - Performed aggregations to create dataframes for investors.
 code for Project 1: amazon-salesproject.py
-###Project 2: Uber Eats York Data Analysis.
+### Project 2: Uber Eats York Data Analysis.
 Task Completed:
 - cleaning, transforming data
 - performing the ETA
