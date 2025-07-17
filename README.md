@@ -5,4 +5,5 @@ This repo consists of the following
 Tasks completed:
 - cleaned Data (removed nulls, checked column types)
 - performed Data Exploration
-- Performed aggegrations to create dataframes for investors.
+- Performed aggregations to create dataframes for investors.
+code for Project ! amazonsalesproject.py
